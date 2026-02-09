@@ -17,3 +17,10 @@ como profesional.
 - dart,flutter
 - mysql
 - git (en aprendizaje )
+## Aplicaciones que e desarrollado
+- sistemas CRUD en java(jframe)projecto academico
+- sistemas con CRUD  y datos persistentes de manera local en PHP
+- paginas web basicas con html,css y javascript.
+- aplicacion movil en dart con flutter (projecto personal)
+## Experiencia previa
+- projectos academicos en php ,java,html y en proyectos  personales enfocados en reforzar fundamentos de desarrollo de software 
